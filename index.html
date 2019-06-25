@@ -9,7 +9,14 @@
   <title>Ping Pong</title>
 </head>
 <body>
-  <h1>Ping-Pong</h1>
+  <div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-4">Ping-Pong</h1>
+
+  </div>
+</div>
+<div id="rules">
+<p class="lead">Let's have some fun playing ping-pong!</p>
 
   <h3>Rules:</h3>
 
@@ -20,14 +27,15 @@
     <li>Numbers divisible by 5 are replaced with "pong"</li>
     <li>Numbers divisible by 15 are replaced with "pingpong"</li>
   </ol>
-
+</div>
+<div id="container">
   <form>
     <div class="form-group">
-      <label for="formGroupExampleInput">Please Enter your number here:</label>
+      <label for="formGroupExampleInput">Please Enter a number here:</label>
       <input type="text" class="form-control" id="number" placeholder="Enter a number">
     </div>
 
-    <button type="submit" class="btn btn-primary">Submit</button>
+    <button type="submit" class="btn btn-primary">Play!</button>
   </form>
   <br>
   <div id="output">
@@ -36,7 +44,7 @@
     </ul>
   </div>
 
-
+</div>
 
 
 </body>

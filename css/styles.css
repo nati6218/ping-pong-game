@@ -1,5 +1,8 @@
+body{
+  background-color: #dadbd9;
+}
 #number{
-  width: 100px;
+  width: 70%;
 }
 
 h1{
@@ -16,4 +19,18 @@ form{
 
 #output{
   display: none;
+}
+.jumbotron {
+  background-color: #84a7e0;
+}
+#rules{
+  float: left;
+  padding: 30px;
+  width: 30%;
+  background-color:#acd1e2
+}
+
+#container {
+ float: right;
+ padding-right: 40%;
 }

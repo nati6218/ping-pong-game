@@ -18,4 +18,5 @@ $(document).ready(function(){
 
   });
   $("#output").show(number);
+  this.removeClass(number);
 });
