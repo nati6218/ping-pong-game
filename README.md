@@ -6,17 +6,17 @@ This is a fun game that anyone can play just by putting a number
 
 ## Specifications
  - it counts up any given number
-     example input: 7
-     example output: [1,2,3,4,5,6,7]
+     * example input: 7
+     * example output: [1,2,3,4,5,6,7]
  - Numbers divisible by 3 are replaced with "ping"
-      example input: 3
-      example output:[1,2,ping]
+      * example input: 3
+      * example output:[1,2,ping]
  - Numbers divisible by 5 are replaced with "pong"
-     example input: 5
-     example output:[1,2,ping,4,pong]
+     * example input: 5
+     * example output:[1,2,ping,4,pong]
  - Numbers divisible by 15 are replaced with "pingpong"
-     example input: 5
-     example output:[1,2,ping,4,pong]
+     * example input: 5
+     * example output:[1,2,ping,4,pong]
 
 ## Technologies Used
 
@@ -32,7 +32,7 @@ This is a fun game that anyone can play just by putting a number
 
 * Clone this repository
 * Open a simple HTTP click the link
-* https://nati6218.github.io/PersonalPage/
+* https://nati6218.github.io/ping-pong-game/
 
 ## License
 MIT License
