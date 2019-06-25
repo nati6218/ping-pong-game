@@ -15,8 +15,9 @@ $(document).ready(function(){
         $("ul").append("<li>"+ i  + "</li>")
       }
     }
-
-  });
   $("#output").show(number);
-  this.removeClass(number);
+  });
+
+
+  this.remove();
 });

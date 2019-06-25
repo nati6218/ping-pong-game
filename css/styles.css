@@ -1,5 +1,5 @@
 body{
-  background-color: #dadbd9;
+  background-color: #f7f7f2;
 }
 #number{
   width: 70%;
@@ -19,6 +19,7 @@ form{
 
 #output{
   display: none;
+
 }
 .jumbotron {
   background-color: #84a7e0;
