@@ -13,3 +13,7 @@ body{
 form{
   padding-top: 50px;
 }
+
+#output{
+  display: none;
+}
